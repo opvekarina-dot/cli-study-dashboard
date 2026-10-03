@@ -1,6 +1,11 @@
 {
   "launch_items": [
     {
+      "name": "ChatGPT 学习助手",
+      "type": "url",
+      "target": "https://chatgpt.com/"
+    },
+    {
       "name": "GitHub 学习区",
       "type": "url",
       "target": "https://github.com/explore"
