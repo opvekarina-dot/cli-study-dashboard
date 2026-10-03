@@ -1,0 +1,14 @@
+{
+  "launch_items": [
+    {
+      "name": "GitHub 学习区",
+      "type": "url",
+      "target": "https://github.com/explore"
+    },
+    {
+      "name": "Python 官方文档",
+      "type": "url",
+      "target": "https://docs.python.org/3/"
+    }
+  ]
+}
